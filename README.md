@@ -1,5 +1,7 @@
 # Enterprise IAM Platform
 
+
+[![Coverage](https://img.shields.io/badge/Coverage-JaCoCo-blue?style=flat-square&logo=codecov)](https://github.com/Raphasha27/enterprise-iam-platform/actions)
 [![CI](https://github.com/koketseraphasha/enterprise-iam-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/koketseraphasha/enterprise-iam-platform/actions/workflows/ci.yml)
 
 Enterprise Identity and Access Management platform. SSO simulation, MFA, RBAC, user provisioning, access reviews, and audit logs.
